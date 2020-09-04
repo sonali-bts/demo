@@ -5,8 +5,7 @@ print('hello local f1 --> global master')
 print('change from local f1')
 print('change from golbal f1')
 print('change from git ')
-
-
 print('change from git 2')
+print('rebase example  from git 1')
 
 
