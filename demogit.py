@@ -1,11 +1,5 @@
 print('hello local master')
 print('hello global master')
-print('hello local f1')
-print('hello local f1 --> global master')
-print('change from local f1')
-print('change from golbal f1')
-print('change from git ')
-print('change from git 2')
-
+print('rebase exmaple to handle conflict')
 
 
