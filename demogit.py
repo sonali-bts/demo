@@ -6,6 +6,10 @@ print('change from local f1')
 print('change from golbal f1')
 print('change from git ')
 print('change from git 2')
+<<<<<<< HEAD
 print('rebase example  from git 1')
+=======
+print('rebase example  from git 2')
+>>>>>>> 3f34fc9... git 2 commit
 
 
